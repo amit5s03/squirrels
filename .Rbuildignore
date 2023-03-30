@@ -1,0 +1,9 @@
+
+^dev$
+^LICENSE\.md$
+^squirrels\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^README\.Rmd$
