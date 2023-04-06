@@ -10,7 +10,7 @@ library(testthat)
 ```
 
 <!--
- You need to run the 'description' chunk in the '0-dev_history.Rmd' file before continuing your code there.
+ You need to run the 'description' chunk in the '0-dev_history.Rmd' file before continuing your code there. - primary
 -->
 
 ```{r development-load}
